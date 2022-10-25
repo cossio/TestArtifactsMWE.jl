@@ -1,0 +1,1 @@
+A minimum working example of Artifacts failure in Github CI.
