@@ -1,0 +1,6 @@
+[PyData]
+git-tree-sha1 = "0f38fe81344cbfb7f2f5243a4edeac7c8d7415ef"
+
+    [[PyData.download]]
+    sha256 = "9d5738167fe40e75c69b0ea969d567b4fe62813f4f7a1b0a5ea0538e98b4df30"
+    url = "https://gist.github.com/cossio/29f10b211d037d336fc90fdd8a1c1596/raw/0f38fe81344cbfb7f2f5243a4edeac7c8d7415ef.tar.gz"
