@@ -2,7 +2,3 @@ name = "TestArtifactsMWE"
 uuid = "2b3dcae9-6817-4f59-9423-4c1018dbce88"
 authors = ["Jorge Fernandez-de-Cossio-Diaz <j.cossio.diaz@gmail.com>"]
 version = "0.1.0"
-
-[deps]
-
-[compat]
